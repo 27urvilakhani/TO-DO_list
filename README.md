@@ -14,7 +14,3 @@ This project helps me practice DOM manipulation, JavaScript basics, and GitHub w
 - CSS
 - JavaScript
 
-## How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/todo-list.git
